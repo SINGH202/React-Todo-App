@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "Study",
+      "input": "DSA",
+      "id": 1
+    },
+    {
+      "title": "Go out",
+      "input": "Go out with friends to enjoy.",
+      "id": 2
+    },
+    {
+      "title": "Eat",
+      "input": "Eat food at 10:00.",
+      "id": 3
+    },
+    {
+      "title": "Study",
+      "input": "Learn React from previous classes.",
+      "id": 4
+    },
+    {
+      "title": "Chill",
+      "input": "Just do nothing and chill",
+      "id": 5
+    },
+    {
+      "title": "Random",
+      "input": "Random thing that could be done. ",
+      "id": 6
+    }
+  ]
+}
